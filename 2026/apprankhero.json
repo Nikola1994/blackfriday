@@ -1,0 +1,15 @@
+{
+  "name": "AppRankHero",
+  "url": "https://apprankhero.com/pricing?utm_source=gh-onmyway133&utm_medium=deal&utm_campaign=black_friday_2026",
+  "description": "Native Mac app for ASO that tracks your App Store and Google Play keyword ranks every morning, with keyword research and an MCP server",
+  "category": "marketing",
+  "platforms": ["mac"],
+  "deal": "30% off annual Pro and Studio, first year",
+  "code": "BLACKFRIDAY30",
+  "pricing": "subscription",
+  "price": { "regular": 49.99, "sale": 34.99, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://apprankhero.com/apprankhero-icon.png"
+}
