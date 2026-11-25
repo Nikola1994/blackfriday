@@ -1,0 +1,15 @@
+{
+  "name": "Baby Monitor: Private Cam",
+  "url": "https://apps.apple.com/app/id6785552555?ct=gh-blackfriday",
+  "description": "Private baby monitor that turns two phones into a monitor over your home WiFi, no cloud and no account",
+  "category": "lifestyle",
+  "platforms": ["ios", "android"],
+  "deal": "50% off first year of Pro yearly on iPhone, iOS only",
+  "code": "BLACKFRIDAY50",
+  "pricing": "subscription",
+  "price": { "regular": 14.99, "sale": 7.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/6b/43/436b43f0-3103-ddc0-0191-0b88a633bfe5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+}
